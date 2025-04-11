@@ -13,4 +13,4 @@ var r = a + b;
 
 // Mostrar resultado con interpolación de cadenas
 console.log(`el resultado es:${r}`);
-console.log("Ya lo enlace");
+console.log("Ya pude enlazarlo");
