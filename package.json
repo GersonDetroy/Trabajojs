@@ -2,9 +2,9 @@
   "name": "node",
   "version": "1.0.0",
   "description": "primer node",
-  "main": "app.js",
+  "main": "ejercicios.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon ejercicios.js, app.js"
   },
   "author": "",
   "license": "ISC",
